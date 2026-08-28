@@ -1,0 +1,1 @@
+const char* release = "1.0";
